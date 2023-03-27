@@ -1,1 +1,1 @@
-# androidapp-convertor-de-temperatura
+Aplicativo Android desenvolvido no Android Studio que converte temperaturas
